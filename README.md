@@ -7,6 +7,7 @@ currently the accuracy of model is 91 percent .It can be increased by playing wi
 **Credits**
 https://youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN used For learning how to train a deep learning model
 https://medium.com/analytics-vidhya/how-to-create-your-own-custom-image-classifier-and-deploy-it-to-production-5506bb26a74b
-For hosting using streamlit
+For hosting using streamlit and remotely 
+deploying using heroku
 
 
